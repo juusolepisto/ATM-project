@@ -79,7 +79,7 @@ class Menu(tk.Tk):
         self.n5 = tk.Button(withdraw, text="80", width=6, anchor=tk.E, command= lambda: withdrawConfirm(80))
         self.n5.grid(row=3, column=3)
 
-        self.n6 = tk.Button(withdraw, text="100", width=6, anchor=tk.E, command= lambda: withdrawConfirmr(100))
+        self.n6 = tk.Button(withdraw, text="100", width=6, anchor=tk.E, command= lambda: withdrawConfirm(100))
         self.n6.grid(row=4, column=3)
 
         self.t4 = tk.Button(withdraw, text="Return", width=12, anchor=tk.CENTER, wraplength=65, command=withdraw.destroy) 
