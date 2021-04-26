@@ -4,6 +4,8 @@ This was a group project for a OOP -course.
 
 All the participants in this project, have been written in the main.py docstring.
 
+![image](https://user-images.githubusercontent.com/72279374/116143094-5f349280-a6e3-11eb-96b9-a61ac8b2a421.png)
+
 When you start the program, you are greeted with a PIN -window. 
 
 
