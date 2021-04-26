@@ -4,7 +4,7 @@ This was a group project for a OOP -course.
 
 All the participants in this project, have been written in the main.py docstring.
 
-<h5> How is works </h5>
+<h2> How is works </h2>
 
 ![image](https://user-images.githubusercontent.com/72279374/116143094-5f349280-a6e3-11eb-96b9-a61ac8b2a421.png)
 
