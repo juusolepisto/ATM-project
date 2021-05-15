@@ -4,7 +4,7 @@ This was a group project for a OOP -course.
 
 All the participants in this project, have been written in the main.py docstring.
 
-<h2> How is works </h2>
+<h2> How it works </h2>
 
 When you start the program, you are greeted with a PIN -window. 
 
